@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T10:59:38.533Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="t5fxKqhCvxcOUyeceTyg" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T11:02:29.373Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="T4Jgt0sxhdNh7ke87_Iv" version="15.0.6" type="github">
   <diagram id="1T02eesxhD1087KPEWg6" name="Page-1">
-    <mxGraphModel dx="1394" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4740" dy="2344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,6 +98,48 @@
         </mxCell>
         <mxCell id="eag13FPDZMQsbQJUMplU-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eag13FPDZMQsbQJUMplU-26" target="eag13FPDZMQsbQJUMplU-26">
           <mxGeometry x="200" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1690" width="649" height="649" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250.95744680851067" y="1830.4255319148936" width="352.1170212765958" height="352.1170212765958" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="415.95744680851067" y="1946.276595744681" width="28.085106382978726" height="126.38297872340424" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-45" value="Harry" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="422.9787234042554" y="1891.6382978723404" width="14.042553191489363" height="28.08510638297872" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-46" value="Akshay" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="179.99595744680857" y="1789.9955319148935" width="14.042553191489363" height="28.08510638297872" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-47" value="Sachin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2240.001489361702" width="14.042553191489363" height="28.08510638297872" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-48" value="Mithun" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="250.96" y="2211.911489361702" width="14.042553191489363" height="28.08510638297872" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-49" value="Chirayu" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2044.5774468085106" width="14.042553191489363" height="28.08510638297872" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-50" value="Prashant" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="169.99999999999997" y="2020.0014893617022" width="14.042553191489363" height="28.08510638297872" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-51" value="Sakib" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1910" width="14.04" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-52" value="Amit" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2083.191489361702" width="14.042553191489363" height="28.08510638297872" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-53" value="Manith" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1979.9974468085106" width="14.042553191489363" height="28.08510638297872" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-54" value="BINOD" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1860.0014893617022" width="14.042553191489363" height="28.08510638297872" as="geometry" />
+        </mxCell>
+        <mxCell id="eag13FPDZMQsbQJUMplU-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eag13FPDZMQsbQJUMplU-53" target="eag13FPDZMQsbQJUMplU-53">
+          <mxGeometry x="200" y="2600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
